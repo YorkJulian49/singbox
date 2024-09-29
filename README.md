@@ -72,7 +72,7 @@ yum update && yum -y install curl wget tar socat jq git openssl util-linux gcc-c
 ```
 - **Run the script using the following command**
 ```
-wget -N -O /root/singbox.sh https://raw.githubusercontent.com/robertpatton49/singbox/main/Install.sh && chmod +x /root/singbox.sh && ln -sf /root/singbox.sh /usr/local/bin/singbox && bash /root/singbox.sh
+wget -N -O /root/singbox.sh https://raw.githubusercontent.com/YorkJulian49/singbox/main/Install.sh && chmod +x /root/singbox.sh && ln -sf /root/singbox.sh /usr/local/bin/singbox && bash /root/singbox.sh
 ```
 
 # **Instructions**
